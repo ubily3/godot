@@ -3,6 +3,6 @@
 # instructions
 
 # click code 
-# click zip
+# click  download zip
 
 # done
